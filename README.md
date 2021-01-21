@@ -4,9 +4,13 @@ Designing a deck of cards using OOPs, where we can pull one card randomly.
 OOPS -> If you ask me to explain OOP concepts in one line:
 
 Hiding Data —> Encapsulation
+
 Hiding Complexity —> Abstraction
+
 Reuse Existing Functionality —> Inheritance
+
 Same Signature Different Actions —> Polymorphism
+
 
 import java.util.*; package
 
